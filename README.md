@@ -1,4 +1,4 @@
-# Schroeder Reverbrator
+# Schroeder Reverberator
 
 ## How to use
 

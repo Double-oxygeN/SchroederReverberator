@@ -1,4 +1,4 @@
-/** Schroeder Reverbrator.
+/** Schroeder Reverberator.
  ** requires comb, apf */
 
 fun float calcGain(dur decay, dur combDelay) {
